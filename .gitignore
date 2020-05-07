@@ -1,0 +1,4 @@
+/target/dependency-jars/avalon-framework-4.1.3.jar
+/.idea
+/target
+*.iml
